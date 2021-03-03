@@ -1,22 +1,21 @@
 {
-    "name": "swarm-john",
-    "description": "Parallelise John the ripper across a swarm",
-    "version": "0.1.0",
-    "devDependencies": {
-      "grunt": "^1.3.0",
-      "grunt-cli": "^1.3.0"
-    },
-    "portfolio": {
-      "project_type": "Community work",
-      "frameworks": [
-        "John the ripper"
-      ],
-      "paradigms": [
-        "Containerised microservices"
-      ],
-      "status": [
-        "In development"
-      ]
-    }
+  "name": "swarm-john",
+  "description": "Parallelise John the ripper across a swarm.",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-cli": "^1.3.0"
+  },
+  "portfolio": {
+    "project_type": "Community work",
+    "frameworks": [
+      "John the ripper"
+    ],
+    "paradigms": [
+      "Containerised microservices"
+    ],
+    "status": [
+      "In development"
+    ]
   }
-  
+}

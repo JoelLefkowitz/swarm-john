@@ -1,6 +1,6 @@
 # Swarm John
 
-Parallelise John the ripper across a swarm
+Parallelise John the ripper across a swarm.
 
 ## Status
 
