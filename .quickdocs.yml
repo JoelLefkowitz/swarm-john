@@ -1,0 +1,6 @@
+project: swarm-john
+version: 0.1.0
+author: Joel Lefkowitz
+verbose_name: Swarm John
+html_title: Swarm John
+github_url: JoelLefkowitz/swarm-john
