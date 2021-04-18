@@ -1,0 +1,42 @@
+output_dir: .
+
+clear_top_level: true
+logical_grouping: true
+
+collections:
+  - common
+
+loader_paths:
+  - docs
+
+render_context:
+  project:
+    project_name: swarm-john
+    version: 0.1.0
+
+    verbose_name: Swarm John
+    description: Parallelise John the ripper across a swarm.
+
+    repository: https://github.com/JoelLefkowitz/swarm-john
+    codacy_id: 48eb8cade52342279f77564312f2420f
+
+    inserts:
+      - usage.md
+
+  author:
+    author: Joel Lefkowitz
+    author_email: joellefkowitz@hotmail.com
+    author_github_handle: joellefkowitz
+
+  portfolio:
+    is_portfolio: true
+    status_level: 1
+
+    languages:
+      - TypeScript
+
+    frameworks:
+      - John the Ripper
+
+    paradigms:
+      - Containerised microservices
